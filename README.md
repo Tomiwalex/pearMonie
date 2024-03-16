@@ -49,4 +49,4 @@ The app uses the information in the server provided `https://app.beeceptor.com/m
 
 - I Created a build version for android which can be downloaded and installed on an android device
 
-- The link to the android app ``
+- The link to the android app `https://expo.dev/artifacts/eas/nMY798LU8LsTR14yxQ3BQ1.apk`
