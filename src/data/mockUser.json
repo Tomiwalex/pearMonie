@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Adedoyin leke",
+    "phoneNumber": "(+234) 905 1694 275",
+    "imgUrl": ""
+  },
+  {
+    "id": 2,
+    "name": "Adolph colleaguee",
+    "phoneNumber": "(+234) 000 1694 005",
+    "imgUrl": ""
+  },
+  {
+    "id": 3,
+    "name": "Babatoye isreal",
+    "phoneNumber": "(+234) 995 1223 222",
+    "imgUrl": ""
+  },
+  {
+    "id": 4,
+    "name": "taiwo martins",
+    "phoneNumber": "(+234) 812 1994 665",
+    "imgUrl": ""
+  },
+  {
+    "id": 5,
+    "name": "Elizabeth rode",
+    "phoneNumber": "(+234) 444 9994 275",
+    "imgUrl": ""
+  },
+  {
+    "id": 6,
+    "name": "Famakin blessing",
+    "phoneNumber": "(+234) 838 1314 647",
+    "imgUrl": ""
+  }
+]
