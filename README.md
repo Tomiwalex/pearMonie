@@ -8,15 +8,18 @@ List the frameworks and libraries used in your project:
 
 - Expo
 - React Native
-- Tailwind CSS
-- axios
 
 **Libraies**
 
+- axios
+- Reanimated
+- Stack Navigator
 - expo vector
-- Tailwind CSS
+- Tailwind CSS and more
 
 ### Getting Started
+
+To lauch this program please follow this steps below
 
 1. **Prerequisites**:
 
@@ -25,29 +28,21 @@ List the frameworks and libraries used in your project:
 
 2. **Installation**:
 
-   - Clone the repository: `git clone https://github.com/your-repo.git`
-   - Navigate to the project directory: `cd your-project-directory`
+   - Clone the repository: `git clone https://github.com/Tomiwalex/pearMonie`
+   - Navigate to the project directory: `cd your-project-directory/pearMonie`
    - Install dependencies: `npm install`
 
 3. **Running the App**:
-   - Start the Expo development server: `expo start`
+   - Start the Expo development server: `npm start`
    - Open the Expo Go app on your mobile device or an emulator
    - Scan the QR code displayed in the terminal to run the app
 
-### Folder Structure
-
-Briefly describe the structure of your project's folders and key files.
-
 ### Additional Notes
 
-Include any additional information, instructions, or tips for running or using the app.
+The app uses the information in the server provided `https://app.beeceptor.com/mock-server/crypto-wallet-server`
 
-### Credits
+- To sign in, use any username and password of your choice. This setting was configured in alignment to the api's information.
 
-Give credit to any resources, tutorials, or individuals who contributed to your project.
+- every input and submission error has being handled
 
-### License
-
-Specify the license under which your project is released.
-
-By following this template and customizing it with specific details about your Expo project, frameworks used, and instructions for running the app, you can create a comprehensive README file that guides assessors on how to interact with your app and understand its implementation.
+- If there are any questions please reach out to me on `coderiger@gmail.com`
