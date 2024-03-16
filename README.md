@@ -49,4 +49,6 @@ The app uses the information in the server provided `https://app.beeceptor.com/m
 
 - I Created a build version for android which can be downloaded and installed on an android device
 
-- The link to the android app `https://expo.dev/artifacts/eas/nMY798LU8LsTR14yxQ3BQ1.apk`
+- View the app info here `https://expo.dev/accounts/coderiger/projects/pearMonie/builds/b07af53e-11e4-465b-b20c-04c233e1b9fc`
+
+- The link to download the app: `https://expo.dev/artifacts/eas/nMY798LU8LsTR14yxQ3BQ1.apk`
