@@ -39,7 +39,7 @@ To lauch this program please follow this steps below
 
 ### Additional Notes
 
-The app uses the information in the server provided `https://app.beeceptor.com/mock-server/crypto-wallet-server`
+The app uses the information in the API provided `https://app.beeceptor.com/mock-server/crypto-wallet-server`
 
 - To sign in, use any username and password of your choice. This setting was configured in alignment to the api's information.
 
